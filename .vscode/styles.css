@@ -1,0 +1,31 @@
+/* \ */
+
+.mtk1.mtki,
+.mtk5.mtki,
+.mtk6,
+.mtk7.mtki,
+.mtk4.mtki,
+.mtk9.mtki,
+.mtk10.mtki,
+.mtk14.mtki,
+.mtk15.mtki,
+.mtk16.mtki {
+	margin-right: 1px;
+	font-family: "Operator Mono";
+	font-size: 16px;
+}
+
+/*
+    For the tab titles.
+*/
+/* .monaco-icon-label-description-container .label-name {
+    font-family: "Operator Mono";
+    font-size: 14px;
+}
+
+.tabs-container .monaco-icon-label-description-container .label-name,
+.sidebar .monaco-icon-label-description-container .label-name,
+.quick-open-row .monaco-icon-label-description-container .label-name {
+    font-family: "Operator Mono";
+    font-size: 14px;
+} */
